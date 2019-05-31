@@ -1,2 +1,2 @@
 # Simple Car Counting with OpenCV
-![](car-counting.gif)
+![](src/car-counting.gif)
