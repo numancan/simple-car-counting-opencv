@@ -1,2 +1,2 @@
-# car-counting-opencv
-Simple car counting system with OpenCV
+# Simple Car Counting with OpenCV
+![](src/car-counting.gif)
