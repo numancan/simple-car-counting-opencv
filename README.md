@@ -6,9 +6,11 @@ In this project, I tried car counting using OpenCV library.
 ## Getting Started
 
 ### Dependencies
-
-* You have to install **OpenCV** and **numpy** library for python 3.
+This project requires the following dependencies:
+* [Python](https://www.python.org/downloads)(>= 3)
+* [NumPy](http://www.numpy.org)
+* [OpenCV](https://opencv.org/releases/)
 
 ### Usage
 
-Just run **tracker.py**.
+Run **tracker.py**.
